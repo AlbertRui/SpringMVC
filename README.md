@@ -1,27 +1,23 @@
-
-<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
-<body>
-
+<body>
 <div id="header">
 <div id="HeaderTitle">
 <div id="Title">
-<a id="Header1_HeaderTitle" class="headermaintitle" href="http://www.cnblogs.com/albertrui/">AlbertRui</a>
+<h1><a id="Header1_HeaderTitle" class="headermaintitle" href="http://www.cnblogs.com/albertrui/">AlbertRui</a><h1>
 </div>
 <div id="subTitle"></div>
 </div>
-</div>
-
-<div id="main">
-	
+</div>
+<div id="main">
 <div id="post_detail">
 	<div class="post">
 		<h2>
-			<a id="cb_post_title_url" href="http://www.cnblogs.com/albertrui/p/8302170.html">Spring MVC入门</a>
+			<a id="cb_post_title_url" href="http://www.cnblogs.com/albertrui/p/8302170.html">Spring MVC学习记录</a>
 		</h2>
 		<div id="cnblogs_post_body" class="blogpost-body"><h2>一、Spring MVC概述：</h2>
 <p>　　Spring MVC是Spring提供的一个强大而灵活的web框架。借助于注解，Spring MVC提供了几乎是POJO的开发模式，使得控制器的开发和测试更加简单。这些控制器一般不直接处理请求，而是将其委托给Spring上下文中的其他bean，通过Spring的依赖注入功能，这些bean被注入到控制器中。</p>
@@ -62,7 +58,6 @@ Spring提供的视图解析器（ViewResolver）在Web应用中查找View对象�
 <p>　　Java代码结构如下：</p>
 <p><img src="https://images2017.cnblogs.com/blog/1268854/201801/1268854-20180117121525490-280892340.png" alt=""></p>
 <p>项目地址：<a href="https://github.com/AlbertRui/SpringMVC" target="_blank">https://github.com/AlbertRui/SpringMVC</a></p>
-</div><div id="MySignature"></div>
-
+</div><div id="MySignature"></div>
 </body>
 </html>
